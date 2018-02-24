@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\.android\build-cache\3fe7b3497cd0dc4be2217d6a2f30588b33ebe00a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\SaiPriya\Firstapp\app\build\intermediates\pre-dexed\debug\classes_1f196eab6d965ba64931ee13c18609c22325595b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\.android\build-cache\1039fe66fbd16fefd6006b80fdfe752a24d82d43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\SaiPriya\Firstapp\app\build\intermediates\pre-dexed\debug\classes_dade8d4d8addff3188e107eb5ffea3be1cb6471c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\SaiPriya\Firstapp\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_f31a58361fa485d5b7186ce7d121da404771ff3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\.android\build-cache\2d1f2ff17b7b6bed14ee95318bed74ecec67df5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\SaiPriya\Firstapp\app\build\intermediates\pre-dexed\debug\classes_d20df9df84414056dc5c94dd8c3b21ca68b7c924.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\.android\build-cache\beb80cabdd673b9354e8a8dd2e1ef97f46164aa9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\SaiPriya\Firstapp\app\build\intermediates\pre-dexed\debug\classes_ce82df05c0f5ea2fce022ce115e2a88c06b2c018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\.android\build-cache\ebb8f6d10bc291dbbdc3bd72574b6333f4643f0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\SaiPriya\Firstapp\app\build\intermediates\pre-dexed\debug\classes_f24d405541ea927be5f5face1a098eb58fe01316.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\.android\build-cache\8f9efd800e7a8a80baf10d91f2b50f471772b4a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\SaiPriya\Firstapp\app\build\intermediates\pre-dexed\debug\classes_960b7edea6519fdea04eb51d336b91e6c32dc726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\SaiPriya\Firstapp\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_9ee68a571e1ebeb10eed7fa19b13d01c2a8c3684.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\.android\build-cache\4fce18a2b329934cb8196da24aa5a17031eeeea8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\SaiPriya\Firstapp\app\build\intermediates\pre-dexed\debug\classes_cf9c8c9f15a7c8d988639d82715556cf4ea4a032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\.android\build-cache\21cbbcd8e0229bc0952cd3418e21d13d9b5c76ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\SaiPriya\Firstapp\app\build\intermediates\pre-dexed\debug\classes_74411fc8fc82b7fbadb5b4cdd6da41bfcf5edd1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\.android\build-cache\952db110cc87e5f1cf291073f25366986dd3fbb4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\SaiPriya\Firstapp\app\build\intermediates\pre-dexed\debug\classes_d3cc4a97658700fb02991788ee647e89a182d8b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krish\.android\build-cache\643555cea1cc1f9d3453f16823f8caa3ef7f497e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\SaiPriya\Firstapp\app\build\intermediates\pre-dexed\debug\classes_ec4bc20b89aba6e19c0d8af930bb2e5cf9db8991.jar" />
+    </item>
+
+</items>

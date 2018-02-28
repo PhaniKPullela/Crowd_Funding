@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<RelativeLayout 
-                tools:context="com.priyak.firstapp.SecondActivity"
+<RelativeLayout tools:context="com.priyak.firstapp.SecondActivity"
                 android:layout_height="match_parent" 
                 android:layout_width="match_parent" 
                 xmlns:tools="http://schemas.android.com/tools" 
                 xmlns:app="http://schemas.android.com/apk/res-auto" 
                 xmlns:android="http://schemas.android.com/apk/res/android">
- 
+
 <Button 
         android:layout_height="wrap_content" 
         android:layout_width="wrap_content" 
@@ -14,8 +13,7 @@
         android:textColor="@android:color/black" 
         android:textAppearance="@style/TextAppearance.AppCompat.Button" 
         android:textAllCaps="false" 
-        android:text="BACK" 
-        android:onClick="OnBack" 
+        android:text="BACK" android:onClick="OnBack" 
         android:background="@color/colorAccent" 
         android:layout_marginStart="52dp" 
         android:layout_marginBottom="61dp" 
@@ -26,7 +24,7 @@
 <Button 
         android:layout_height="wrap_content" 
         android:layout_width="wrap_content" 
-        android:textSize="22dp"
+        android:textSize="22dp" 
         android:textColor="@android:color/black" 
         android:text="PROCEED" 
         android:background="@color/colorAccent" 
@@ -37,4 +35,4 @@
         android:layout_alignBaseline="@+id/button" 
         style="@style/Widget.AppCompat.Button.Borderless"/>
 
-</RelativeLayout>
+</RelativeLayout
